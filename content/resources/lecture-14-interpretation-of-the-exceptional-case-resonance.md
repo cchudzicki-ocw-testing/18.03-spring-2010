@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Interpretation of the Exceptional Case: Resonance'
 uid: c71f4b0c-979a-55b5-0dec-48a4c4d3bef9
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Interpretation of the Exceptional Case: Resonance
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

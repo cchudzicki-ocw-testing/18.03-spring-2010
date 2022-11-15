@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course, solutions,
+  and supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 26f5298a-cdde-cdcb-3039-98db02f085b8
+video_metadata:
+  youtube_id: null
 ---
 
 Each homework assignment has two parts:

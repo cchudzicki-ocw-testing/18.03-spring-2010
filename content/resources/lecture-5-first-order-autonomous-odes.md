@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: First-order Autonomous ODEs'
 uid: 346b4b4e-40fd-cce8-8d64-31e2c66d3f8b
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** First-order Autonomous ODE's: Qualitative Methods, Applications.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

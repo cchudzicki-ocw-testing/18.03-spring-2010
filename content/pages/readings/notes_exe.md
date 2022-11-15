@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides supplementary notes and exercises on differential
+  equations.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
 title: 18.03 Notes and Exercises
 uid: 57bad402-02cb-ea33-05ef-548784c0e8a9
+video_metadata:
+  youtube_id: null
 ---
 
 These notes and exercises were written by Prof. Arthur Mattuck and are designed to supplement the textbook.
@@ -45,7 +49,7 @@ Definite integral solutions ({{% resource_link 05828d8a-addf-34cb-412d-1884d82e6
 G
 {{< tdclose >}}
 {{< tdopen >}}
-Graphical and numerical methods (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})
+Graphical and numerical methods ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +67,7 @@ Complex numbers ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}
 IR
 {{< tdclose >}}
 {{< tdopen >}}
-Input-response models (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})
+Input-response models ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +85,7 @@ Linear differential operators ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311
 S
 {{< tdclose >}}
 {{< tdopen >}}
-Stability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5877c80d-d9c7-8f17-7721-c91682bbb8fb "PDF" %}})
+Stability ({{% resource_link 5877c80d-d9c7-8f17-7721-c91682bbb8fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +121,7 @@ Linear systems of ODE's - LS1 of 6 ({{% resource_link 791981c1-011f-03da-368f-8e
 GS
 {{< tdclose >}}
 {{< tdopen >}}
-Graphing systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f0808915-68d0-1bc6-0ff1-8f15b77f8e8c "PDF" %}})
+Graphing systems ({{% resource_link f0808915-68d0-1bc6-0ff1-8f15b77f8e8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +130,7 @@ Graphing systems (![This resource may not render correctly in a screen reader.](
 LC
 {{< tdclose >}}
 {{< tdopen >}}
-Limit cycles (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 710fc2d9-4f71-68bf-0c56-8a3675679aaa "PDF" %}})
+Limit cycles ({{% resource_link 710fc2d9-4f71-68bf-0c56-8a3675679aaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +214,7 @@ Fourier series ({{% resource_link 4d803017-efd1-bbe6-c4d2-9e165057f3fd "PDF" %}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
-First-order ODE's (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f25b3960-eb0a-371f-e365-46ccda8e9636 "PDF" %}})
+First-order ODE's ({{% resource_link f25b3960-eb0a-371f-e365-46ccda8e9636 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +223,7 @@ First-order ODE's (![This resource may not render correctly in a screen reader.]
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Higher-order ODE's (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e37de8c9-3c42-4d37-6a7f-94a44b1df59f "PDF" %}})
+Higher-order ODE's ({{% resource_link e37de8c9-3c42-4d37-6a7f-94a44b1df59f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +232,7 @@ Higher-order ODE's (![This resource may not render correctly in a screen reader.
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Laplace transform (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ee96a126-e064-56f1-aa26-c2d714a1b572 "PDF" %}})
+Laplace transform ({{% resource_link ee96a126-e064-56f1-aa26-c2d714a1b572 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +241,7 @@ Laplace transform (![This resource may not render correctly in a screen reader.]
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Linear systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1151af85-34bb-94b1-eb75-ffd70cab1405 "PDF" %}})
+Linear systems ({{% resource_link 1151af85-34bb-94b1-eb75-ffd70cab1405 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Linear systems (![This resource may not render correctly in a screen reader.](/i
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Graphing systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bb21c82f-f150-ddea-60ee-4310ba636a13 "PDF" %}})
+Graphing systems ({{% resource_link bb21c82f-f150-ddea-60ee-4310ba636a13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +259,7 @@ Graphing systems (![This resource may not render correctly in a screen reader.](
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Power series (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7a44e6ac-1114-7dee-0a1e-55c6ea1ee373 "PDF" %}})
+Power series ({{% resource_link 7a44e6ac-1114-7dee-0a1e-55c6ea1ee373 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +268,7 @@ Power series (![This resource may not render correctly in a screen reader.](/ima
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier series (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3c19b45e-1037-5bc7-c5d3-b6bf9622111c "PDF" %}})
+Fourier series ({{% resource_link 3c19b45e-1037-5bc7-c5d3-b6bf9622111c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

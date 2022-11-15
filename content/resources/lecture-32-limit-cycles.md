@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: Limit Cycles'
 uid: 5b42ad82-e500-0093-2f42-6036b0846a5c
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Limit Cycles: Existence and Non-existence Criteria
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides information on a set of dynamic computer applets
+  called "Mathlets."
 learning_resource_types: []
 ocw_type: CourseSection
 title: Mathlets
 uid: 1d675069-d04b-8fd7-6ec6-d817c829a8bf
+video_metadata:
+  youtube_id: null
 ---
 
 Ordinary Differential Equations Manipulatives ("Mathlets")

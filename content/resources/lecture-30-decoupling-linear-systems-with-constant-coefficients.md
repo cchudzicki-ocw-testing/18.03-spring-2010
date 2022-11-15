@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Decoupling Linear Systems with Constant Coefficients'
 uid: 33de6d5c-602c-0612-b633-255303b6cd1f
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Decoupling Linear Systems with Constant Coefficients
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

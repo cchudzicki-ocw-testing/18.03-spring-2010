@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Continuation: Complex Characteristic Roots'
 uid: 473557a8-12d8-8cfe-9182-766b79899576
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Continuation: Complex Characteristic Roots; Undamped and Damped Oscillations.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

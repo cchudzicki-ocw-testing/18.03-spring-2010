@@ -1,11 +1,15 @@
 ---
 content_type: video_gallery
+description: This section provides video lectures including transcripts from the Spring
+  2003 version of the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
 title: Video Lectures
 uid: 15553052-0081-5ae8-57fb-572ef6d294a3
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - cbdd5cf9-e23d-9ff1-98c7-c4aa1c1375c7

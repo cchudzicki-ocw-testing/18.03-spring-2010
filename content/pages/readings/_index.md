@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course and related
+  Mathlets.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: fab347d4-4e8f-a8f0-5bd0-894dee9b7918
+video_metadata:
+  youtube_id: null
 ---
 
 Listed in the table below are reading assignments for each lecture session.
@@ -67,7 +71,7 @@ Direction fields, existence and uniqueness of solutions
 
 \[EP\]: 1.2 and 1.3  
   
-\[Notes\]: G.1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
+\[Notes\]: G.1 ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
   
 \[SN\]: 1 ({{% resource_link eddb0941-9700-a7ef-0513-cc52118d86a8 "PDF" %}})  
   
@@ -87,7 +91,7 @@ Numerical methods
 {{< tdopen >}}
 \[EP\]: 6.1 and 6.2  
   
-\[Notes\]: G.2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
+\[Notes\]: G.2 ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
   
 [Euler's method](http://math.mit.edu/mathlets/mathlets/eulers-method/) Mathlet
 {{< tdclose >}}
@@ -147,7 +151,7 @@ Complex exponentials; sinusoidal functions
 {{< tdopen >}}
 \[SN\]: 4 ({{% resource_link 840c4c6c-7c93-f9c4-44e7-66dae31ace08 "PDF" %}})  
   
-\[Notes\]: C.4 ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}}) and IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
+\[Notes\]: C.4 ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}}) and IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
 [Complex roots](http://math.mit.edu/mathlets/mathlets/complex-roots/) Mathlet  
   
@@ -165,7 +169,7 @@ Linear system response to exponential and sinusoidal input; gain, phase lag
 {{< tdopen >}}
 \[SN\]: 4 ({{% resource_link 840c4c6c-7c93-f9c4-44e7-66dae31ace08 "PDF" %}})  
   
-\[Notes\]: IR.6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
+\[Notes\]: IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
 [Trigonometric identity](http://math.mit.edu/mathlets/mathlets/trigonometric-id/) Mathlet
 {{< tdclose >}}
@@ -407,7 +411,7 @@ Step response, impulse response
 {{< tdopen >}}
 \[SN\]: 18 ({{% resource_link ee3f6f15-8b84-c526-906b-7b1c8e119818 "PDF" %}})  
   
-\[Notes\]: IR (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})
+\[Notes\]: IR ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -483,7 +487,7 @@ The pole diagram
   
 \[SN\]: 23 ({{% resource_link 3662ccaf-aaa0-b65a-d11f-d06204c84892 "PDF" %}})  
   
-18.03 Difference Equations and Z-Transforms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2f559943-51a6-5249-53ac-067bea36e80f "PDF" %}})(Courtesy of Jeremy Orloff.)  
+18.03 Difference Equations and Z-Transforms ({{% resource_link 2f559943-51a6-5249-53ac-067bea36e80f "PDF" %}})(Courtesy of Jeremy Orloff.)  
   
 [Amplitude response: Pole diagram](http://math.mit.edu/mathlets/mathlets/amplitude-response-pole-diagram/) Mathlet  
   
@@ -613,7 +617,7 @@ Linearization near equilibria; the nonlinear pendulum
 {{< tdopen >}}
 \[EP\]: 7.4 and 7.5  
   
-\[Notes\]: GS (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f0808915-68d0-1bc6-0ff1-8f15b77f8e8c "PDF" %}})  
+\[Notes\]: GS ({{% resource_link f0808915-68d0-1bc6-0ff1-8f15b77f8e8c "PDF" %}})  
   
 \[SN\]: Appendix B ({{% resource_link 63b26053-bec6-4e7c-32b9-3900b15d7fad "PDF" %}})  
   

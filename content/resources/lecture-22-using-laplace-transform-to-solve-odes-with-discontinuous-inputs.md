@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Using Laplace Transform to Solve ODEs with Discontinuous Inputs'
 uid: 717edb67-34ef-eac2-e8c4-c65cdefaac6c
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Using Laplace Transform to Solve ODEs with Discontinuous Inputs.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

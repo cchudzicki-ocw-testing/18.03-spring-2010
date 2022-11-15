@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Finding Particular Solutions to Inhomogeneous ODEs'
 uid: 77f5ae05-9a48-dc41-27ac-0e70e0e8967d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Finding Particular Sto Inhomogeneous ODEs: Operator and Solution Formulas Involving Exponentials.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

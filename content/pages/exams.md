@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides practice exams, exams, and solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: 2086b742-96d0-2af8-58dc-2416db71c10b
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

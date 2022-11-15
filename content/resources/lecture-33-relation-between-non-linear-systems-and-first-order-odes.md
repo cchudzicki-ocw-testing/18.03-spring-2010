@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Relation Between Non-linear Systems and First-order ODEs'
 uid: 19a4ac14-2cb6-9fac-34c7-3ef5cb4ec80f
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Relation Between Non-linear Systems and First-order ODEs; Structural Stability of a System, Borderline Sketching Cases; Illustrations Using Volterra's Equation and Principle
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

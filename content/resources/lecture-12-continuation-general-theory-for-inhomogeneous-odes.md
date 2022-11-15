@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Continuation: General Theory for Inhomogeneous ODEs'
 uid: 1d8da3ab-2278-8bc2-6681-b6b46f79e81a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Continuation: General Theory for Inhomogeneous ODE's. Stability Criteria for the Constant-coefficient ODEs
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

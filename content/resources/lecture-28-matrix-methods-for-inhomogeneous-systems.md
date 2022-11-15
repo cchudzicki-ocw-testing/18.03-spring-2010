@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Matrix Methods for Inhomogeneous Systems'
 uid: f8d9e5ba-2488-333b-923a-87a6f1ac341b
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Matrix Methods for Inhomogeneous Systems: Theory, Fundamental Matrix, Variation of Parameters
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+

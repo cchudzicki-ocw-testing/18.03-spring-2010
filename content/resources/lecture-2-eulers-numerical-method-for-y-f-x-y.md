@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Euler''s Numerical Method for y''=f(x,y)'
 uid: 2b615fd4-e78c-9a06-ed2d-5c6d74bb8cda
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics covered:** Euler's Numerical Method for y'=f(x,y) and its Generalizations.
 
 **Instructor/speaker:** Prof. Arthur Mattuck
+
